@@ -1,4 +1,4 @@
-import Reviews from "@/components/pages/passengers/ Reviews"
+import Reviews from "@/components/pages/passengers/Reviews"
 
 export const metadata = {
   title: 'Notes et Avis | Taxi App Admin',

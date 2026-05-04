@@ -1,4 +1,4 @@
-import DriverList from "@/components/pages/drivers/ DriverList"
+import DriverList from "@/components/pages/drivers/DriverList"
 
 export const metadata = {
   title: 'Liste des Chauffeurs | Sumo Admin',

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import CoursesChart from "@/components/ecommerce/CoursesChart";
-import RevenueChart from "@/components/ecommerce/ RevenueChart";
+import RevenueChart from "@/components/ecommerce/RevenueChart";
 import PerformanceChauffeurs from "@/components/ecommerce/PerformanceChauffeurs";
 import DistributionZones from "@/components/ecommerce/DistributionZones";
 import CoursesEnCours from "@/components/ecommerce/CoursesEnCours";
